@@ -103,7 +103,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		margin: 0;
 		padding: 0;
 		font-size: 100%;
-		font-family: Open Sans;
+		font:inherited;
 		vertical-align: baseline;
 		outline: 0px;
 		-webkit-tap-highlight-color: rgba(0,0,0,0);
