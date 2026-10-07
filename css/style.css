@@ -1510,6 +1510,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		float: right;
 		position: relative;
 		padding-top: 16px;
+		margin-right: 10px;
 	}
 
 	nav > ul > li{
