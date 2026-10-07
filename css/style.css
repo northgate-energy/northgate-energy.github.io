@@ -1519,6 +1519,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 
 	nav > ul > li a{
 		color: #848994;		
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 300;
 		font-size: 13px;
 		text-align: center;
