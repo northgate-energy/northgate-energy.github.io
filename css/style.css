@@ -1845,7 +1845,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	}
 	
 	nav > ul .sf-mega-inner > ul > li > a{
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		color: #3b4550;
@@ -1919,7 +1919,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	}
 
 	.megamenu_header a span{
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 		color: #3b4550;
@@ -1945,7 +1945,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		line-height: 24px;
 		margin-bottom: 0;
 		text-transform: uppercase;
-		font-family: Lato ,sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 	}
 
@@ -2299,7 +2299,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family:'Lato';
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		text-align: center;
@@ -2351,7 +2351,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 
 	.timeline_post h5 a{
 		color: #3b4550;
-		font-family: Lato, sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		line-height: 24px;
 	}
 
@@ -2490,7 +2490,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family:Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		text-align: center;
@@ -2550,7 +2550,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 
 	.grid_post h5 a{
 		color: #3b4550;
-		font-family: Lato, sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		line-height: 24px;
 	}
 
@@ -2625,7 +2625,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family:Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		text-align: center;
@@ -2719,7 +2719,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.blog_category_index_right .post_info .post_main_date,
 	.blog_category_index_left .post_info .post_main_date,
 	.blog_category_index_none .post_info .post_main_date{
-		font-family: Lato,sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		font-size: 25px;
 		line-height: 24px;
@@ -2807,7 +2807,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.blog_category_index_left .post_main .post_main_inner_wrapper h5 a,
 	.blog_category_index_none .post_main .post_main_inner_wrapper h5 a{
 		color: #3b4550;
-		font-family: Lato, sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		line-height: 24px;
 	}
 
@@ -2894,7 +2894,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family:Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		text-align: center;
@@ -2963,7 +2963,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.blog_category_index_right2 .post_info .post_main_date,
 	.blog_category_index_left2 .post_info .post_main_date,
 	.blog_category_index_none2 .post_info .post_main_date{
-		font-family: Lato,sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		font-size: 25px;
 		line-height: 24px;
@@ -3053,7 +3053,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.blog_category_index_left2 .post_main .post_main_inner_wrapper h5 a,
 	.blog_category_index_none2 .post_main .post_main_inner_wrapper h5 a{
 		color: #3b4550;
-		font-family: Lato, sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		line-height: 24px;
 	}
 	
@@ -3137,7 +3137,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family:Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		text-align: center;
@@ -3193,7 +3193,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.blog_category_index_right3 .post_info .post_main_date,
 	.blog_category_index_left3 .post_info .post_main_date,
 	.blog_category_index_none3 .post_info .post_main_date{
-		font-family: Lato,sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		font-size: 25px;
 		line-height: 24px;
@@ -3283,7 +3283,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.blog_category_index_left3 .post_main .post_main_inner_wrapper h5 a,
 	.blog_category_index_none3 .post_main .post_main_inner_wrapper h5 a{
 		color: #3b4550;
-		font-family: Lato, sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		line-height: 24px;
 	}
 	
@@ -3367,7 +3367,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family:Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		text-align: center;
@@ -3576,7 +3576,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family:Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		text-align: center;
@@ -3737,7 +3737,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.blog_category_index_dual .post_main .post_main_inner_wrapper h5 a{
 		color: #3b4550;
 		font-size: 18px;
-		font-family: Lato, sans-serif;
+		font-family: 'Open Sans', sans-serif;
 		line-height: 24px;
 	}
 	
@@ -3783,7 +3783,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 45px;
 		color: #50a2de;
 		text-transform: uppercase;
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size: 14px;
 		font-weight: 700;
 		text-align: center;
@@ -4008,7 +4008,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 
 	.post_meta_share span{
 		margin-right: 10px;
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		font-size: 14px;
 		color: #3b4550;
@@ -4048,7 +4048,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	}
 
 	.post_about_author h5{
-		font-family:Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 		font-weight:700;
 		line-height:22px;
@@ -4350,7 +4350,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.comment .comment-author{
 		font-size: 14px;
 		color: #3b4550;
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		margin-right: 20px;
 	}
@@ -4391,7 +4391,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 
 	#respond .comment-reply-title{
 		text-transform: uppercase;
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		font-size: 18px;
 		color: #3b4550;
@@ -4427,7 +4427,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border: 1px solid transparent;
 		text-transform: uppercase;
 		font-weight: 700;
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size: 14px;
 		padding: 9px 35px;
 		margin-bottom: 23px;
@@ -5346,7 +5346,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		margin-bottom: 20px;
 		line-height: 20px !important;
 		font-size: 14px;
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 300;
 		-webkit-border-radius: 5px;
 		-moz-border-radius: 5px;
@@ -5435,7 +5435,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	.sidebar-widget-heading,
 	#comments-title,
 	#reply-title{
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-weight: 700;
 		color: #3b4550;
 		line-height: 24px;
@@ -5528,7 +5528,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	}
 
 	.search_resuls_number{
-		font-family: Lato;
+		font-family: 'Open Sans', sans-serif;
 		font-size: 19px;
 		font-weight: 300;
 		position: absolute;
