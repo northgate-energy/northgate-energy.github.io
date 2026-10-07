@@ -103,7 +103,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		margin: 0;
 		padding: 0;
 		font-size: 100%;
-		font:inherited;
+		font: inherit;
 		vertical-align: baseline;
 		outline: 0px;
 		-webkit-tap-highlight-color: rgba(0,0,0,0);
@@ -1518,8 +1518,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	}
 
 	nav > ul > li a{
-		color: #848994;
-		/*font-family: Lato;*/
+		color: #848994;		
 		font-weight: 300;
 		font-size: 13px;
 		text-align: center;
@@ -6866,7 +6865,7 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 		border-radius: 5px;
 		overflow: hidden;
 		border: 1px solid #e9eaec;
-		padding-bottom: 10px;
+		padding-bottom: 20px;
 		background: #fff;
 	}
 
